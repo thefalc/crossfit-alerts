@@ -1,0 +1,3 @@
+Request from: <?= $email ?>.
+
+<?= $message ?>

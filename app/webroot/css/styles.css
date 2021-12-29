@@ -1,0 +1,54 @@
+.ui-box-shadow { background: #fff; border: solid 1px #CCC; -moz-box-shadow: 1px 1px 5px #999; -webkit-box-shadow: 1px 1px 5px #999; box-shadow: 1px 1px 5px #999; padding: 5px; }
+
+.cl { display: block; height: 0; font-size: 0; line-height: 0; text-indent: -4000px; clear: both; }
+
+.athlete-detail-row { margin-bottom: 5px; }
+.athlete-label { color: #b7b7b7; font-weight: bold; line-height: 16px; }
+.athlete-value { color: #717171; font-weight: bold; line-height: 16px; }
+
+input.search-box { float: left; background: #e6e6e6; color: #404040; }
+
+input.search-box::-webkit-input-placeholder {
+  color: #999;
+}
+input.search-box:-moz-placeholder {
+  color: #999;
+}
+input.search-box:-ms-input-placeholder {
+  color: #999;
+}
+
+input.input-block-level::-webkit-input-placeholder {
+  padding-top: 3px;
+}
+input.input-block-level:-moz-placeholder {
+  color: #999;
+}
+input.input-block-level:-ms-input-placeholder {
+  color: #999;
+}
+
+ol.instructions { font-size: 20px; line-height: 30px; color: #666; padding-left: 28px; }
+ol.instructions li { margin-bottom: 10px; color: #666; }
+
+.form-contact {
+	max-width: 300px;
+	padding: 19px 29px 29px;
+	margin: 0 auto 20px;
+	background-color: #fff;
+	border: 1px solid #e5e5e5;
+	-webkit-border-radius: 5px;
+	   -moz-border-radius: 5px;
+	        border-radius: 5px;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+	   -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+	        box-shadow: 0 1px 2px rgba(0,0,0,.05);
+	}
+.form-contact .form-contact-heading { font-size: 20px; margin-bottom: 10px; }
+.form-contact input[type="text"],
+.form-contact textarea {
+	font-size: 16px;
+	height: auto;
+	margin-bottom: 15px;
+	padding: 7px 9px;
+}
