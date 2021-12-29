@@ -1,6 +1,6 @@
 # Caunce Types
 
-Source code for the no longer operational website [Crossfit Alerts](http://www.crossfitalerts.com/). I created this website back in 2013 as a way for people to follow their favorite athletes during the Crossfit Open and receive email alerts when the athletes update their workout scores.
+Source code for the no longer operational website Crossfit Alerts. I created this website back in 2013 as a way for people to follow their favorite athletes during the Crossfit Open and receive email alerts when the athletes update their workout scores.
 
 Details and background about the project are described [here](https://thefalc.com/2013/03/crossfit-open-hacking-oh-my/).
 
